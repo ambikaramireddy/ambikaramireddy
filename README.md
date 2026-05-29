@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ambika Ramireddy</h1>
-<h3 align="center">AI & Data Science Enthusiast | Generative AI Developer | CSE-DS Student</h3>
+<h3 align="center">AI & Data Science Enthusiast | Generative AI Intern | CSE-DS Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Generative+AI+Projects;Building+Real-World+Applications;Python+%7C+Streamlit+%7C+LangChain+%7C+TensorFlow" />
@@ -30,10 +30,9 @@
 </p>
 
 - Machine Learning
-- Deep Learning
+- Deep learning
 - Generative AI
 - LangChain
-- NLP
 - CNN
 - Data Analytics
 
