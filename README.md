@@ -26,10 +26,7 @@ I turn data into useful insights and build AI applications that solve practical 
 Currently pursuing **B.Tech in Computer Science and Engineering with Data Science specialization** at **Chaitanya Bharathi Institute of Technology**, with a CGPA of **8.83**.
 I enjoy building AI and data-driven applications using **Python, Machine Learning, Deep Learning, NLP, and Generative AI**. I like working on projects that turn complex data into simple, useful, and practical solutions.
 
-🏠 Based in India  
-🎯 Open to **Data Science**, **AI/ML**, and **Software Development** opportunities  
-📚 Always learning and building with Python, ML, NLP, and Generative AI
-- Based in India
+
 - CGPA: **8.83**
 - Interested in **Data Science, AI/ML, NLP, Computer Vision, and Generative AI**
 - Currently building projects with **Python, Streamlit, Flask, FastAPI, FAISS, PyTorch, and Hugging Face**
